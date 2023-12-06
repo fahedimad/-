@@ -1,0 +1,7 @@
+echo "# -" >> README.md 
+  git init 
+  git add README.md 
+  git Commit -m "الالتزام الأول" 
+  git Branch -M الرئيسي 
+  git Remote add Origin https://github.com/fahedimad/-.git
+   git Push - ش الأصل الرئيسي
